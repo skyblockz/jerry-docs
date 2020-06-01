@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Change logs](README.md)
+* [Home](README.md)
+* [Change logs](UPDATES.md)
 
 ## Price Checking
 
