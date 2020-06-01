@@ -1,16 +1,18 @@
 # Table of contents
 
 * [Home](README.md)
-* [Change logs](UPDATES.md)
+* [Change logs](updates.md)
 
 ## Price Checking
 
-* [$price](price-checking/untitled.md)
-* [$calculate](price-checking/usdcalculate.md)
+* [$price](price-checking/price.md)
+* [$calculate](price-checking/calculate.md)
+* [$ratio](price-checking/ratio.md)
 
 ## Scammer Checking
 
-* [Untitled](scammer-checking/untitled.md)
+* [$scammer check](scammer-checking/untitled.md)
+* [$scammer report](scammer-checking/usdscammer-report.md)
 
 ## SkyBlock Stats
 
